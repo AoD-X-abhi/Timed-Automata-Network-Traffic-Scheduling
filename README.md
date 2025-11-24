@@ -10,6 +10,7 @@
 > **A real-time priority-based packet scheduler using Timed Automata with preemptive scheduling, machine learning-driven dynamic deadlines, and stunning animated visualization.**
 
 ![Scheduler Animation](observations\Project_Simulation.gif)
+
 <p align="center"><i>Live simulation of urgent, normal, and low-priority packets being scheduled with preemption</i></p>
 
 ---
