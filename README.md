@@ -9,10 +9,13 @@
 
 > **A real-time priority-based packet scheduler using Timed Automata with preemptive scheduling, machine learning-driven dynamic deadlines, and stunning animated visualization.**
 
-![Scheduler Animation](observations\Project_Simulation.gif)
-
-<p align="center"><i>Live simulation of urgent, normal, and low-priority packets being scheduled with preemption</i></p>
-
+<p align="center">
+  <img src="observations/Project_Simulation.gif" 
+       alt="Real-time Packet Scheduler Animation" 
+       width="900"/>
+  <br>
+  <em>Live preemptive scheduling: urgent packets instantly interrupt normal/low priority ones</em>
+</p>
 ---
 
 ### Features
@@ -20,7 +23,13 @@
 - **Preemptive Priority Scheduling** – Urgent packets instantly preempt normal/low ones  
 - **Timed Automata Engine** – Formal model with states, clocks, guards, and invariants  
 - **Dynamic Deadlines via ML** – Gradient Boosting Regressor predicts per-packet deadlines  
-- **Rule-Based + ML Hybrid Classifier** – Combines protocol rules with learned behavior  
+- **Rule-Based + ML Hybrid Classifier** – Combines protoco<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/your-repo-name/main/scheduler_animation.gif" 
+       alt="Real-time Packet Scheduler Animation" 
+       width="900"/>
+  <br>
+  <em>Live preemptive scheduling: urgent packets instantly interrupt normal/low priority ones</em>
+</p> rules with learned behavior  
 - **Real-Time Animated Dashboard** – Beautiful live visualization of queues, states, and packet flow  
 - **Comprehensive Analytics** – Waiting times, throughput, preemption count, success rate  
 - **Exportable Results** – MP4 animation, PNG plots, detailed text report  
